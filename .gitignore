@@ -52,7 +52,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
-
+project_git_info.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
